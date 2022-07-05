@@ -1,6 +1,6 @@
 # Projeto ASA
 Projeto ASA
-Repositório destinado ao Projeto da disciplina de Administração de Sistemas Abertos (ASA). Todas as tecnologias de desenvolvimentos serão relatadas e seus códigos serão disponibilizado.
+Repositório destinado ao Projeto da disciplina de Administração de Sistemas Abertos (ASA). Todas as tecnologias de desenvolvimentos serão relatadas e seus códigos serão disponibilizados.
 
 ** Tecnologias utilizadas:
 * Docker
@@ -12,7 +12,7 @@ Repositório destinado ao Projeto da disciplina de Administração de Sistemas A
 * BIND9
 * Apache
 
-** Componetes:
+** Componentes:
 * Ademar Gomes;
 * Jackson Duarte;
 * João Paulo Azevedo;
@@ -21,4 +21,4 @@ Repositório destinado ao Projeto da disciplina de Administração de Sistemas A
 
 -- DESCRIÇÃO DO PROJETO --
 
-O projeto consiste no desenvolvimento de ambiente que seja capaz de automatizar as criações de domínos totalmente utilizável apenas com alguns cliques, utilizando ambiente web. 
+O projeto consiste no desenvolvimento de ambiente que seja capaz de automatizar as criações de domínios totalmente utilizável apenas com alguns cliques, utilizando ambiente web. 
