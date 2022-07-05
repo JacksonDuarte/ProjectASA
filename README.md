@@ -21,4 +21,4 @@ Repositório destinado ao Projeto da disciplina de Administração de Sistemas A
 
 -- DESCRIÇÃO DO PROJETO --
 
-O projeto consiste no desenvolvimento de ambiente que seja capaz de automatizar as criações de domínos totalmente utilizavél apenas com alguns cliques, utilizando ambiente web. 
+O projeto consiste no desenvolvimento de ambiente que seja capaz de automatizar as criações de domínos totalmente utilizável apenas com alguns cliques, utilizando ambiente web. 
