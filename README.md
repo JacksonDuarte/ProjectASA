@@ -2,7 +2,7 @@
 Projeto ASA
 Repositório destinado ao Projeto da disciplina de Administração de Sistemas Abertos (ASA). Todas as tecnologias de desenvolvimentos serão relatadas e seus códigos serão disponibilizado.
 
-- Tecnologias utilizadas:
+** Tecnologias utilizadas:
 * Docker
 * Shell Script
 * MySQL
@@ -12,7 +12,7 @@ Repositório destinado ao Projeto da disciplina de Administração de Sistemas A
 * BIND9
 * Apache
 
-- Componetes:
+** Componetes:
 * Ademar Gomes;
 * Jackson Duarte;
 * João Paulo Azevedo;
